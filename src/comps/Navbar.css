@@ -14,9 +14,10 @@
   height: 50px;
   width: 400px !important;
   margin-top: 20px;
-  margin-left: 40px;
+  margin-left: 60px;
   box-sizing: border-box;
-  font-size: 25px;
+  font-size: 20px;
+  font-weight: bold;
 }
 
 
@@ -25,8 +26,12 @@
   margin-top: 20px;
 margin-left: 200px;
 }
+.logo a:hover{
+  color: #0796fe !important;
+
+}
 .logo a{
-  font-size: 20px;
+  font-size: 20px !important;
 margin-left: 40px;
 color: white !important;
 font-size: 25px;

@@ -10,7 +10,7 @@ function Navbar() {
       <Link to='/'>Beynəlxalq sosial elmlər konfransı</Link>
       </div>
       <div className='logo'>
-        <Link to="/">Home</Link>
+        <Link to="/">Esas Sehife</Link>
         <Link to='/konfrans'>Konfrans</Link>
         <Link to='/yazi'>Y qaydalari</Link>
         <Link to='/elaqe'>Elaqe</Link>

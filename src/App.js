@@ -3,6 +3,7 @@ import Home from './Pages/Home';
 import "./App.css"
 import Footer from './comps/Footer';
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom"
+import Yqaydalari from './Pages/Yqaydalari';
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
 
         <Routes>  
           <Route path='/' element={<Home />} />
+          <Route path='/yazi' element={<Yqaydalari />} />
         </Routes>
         <Footer />
 
