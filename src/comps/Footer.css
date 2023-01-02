@@ -1,0 +1,55 @@
+.footer{
+    background: rgba(1, 49, 94, 0.788);
+    display: flex;
+    font-size: 20px;
+    height: 300px;
+    padding: 30px;
+}
+.qrkod p{
+width: 300px;
+}
+.elaqe h4,.qrkod h4,.qisayol h4{
+    margin-bottom:20px ;
+    color: white;
+}
+.elaqe{
+    width: 300px;
+    margin-left: 50px;
+
+}
+.qrkod button:hover{ 
+    background-color: aqua;
+}
+.qrkod button{ 
+    cursor: pointer;
+    height: 30px;
+    width: 80px;
+    margin-top: 20px;
+    background-color: #d90845;
+    border: black;
+    color: white;
+    border-radius: 5px;
+}
+.qisayol p{
+    cursor: pointer;
+    margin-bottom: 10px;
+    
+}
+a{
+    text-decoration: none;
+}
+a:visited{
+    color:black ;
+}
+.qisayol{
+    width: 300px;
+}
+.qisayol p:hover{
+    color: #0796fe;
+    letter-spacing: 1px;
+}
+
+hr{
+    width: 80px;
+    margin-bottom: 10px;
+}
